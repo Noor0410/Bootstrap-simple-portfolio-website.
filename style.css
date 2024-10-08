@@ -1,0 +1,47 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+    padding: 100px 0;
+    background-color: #f8f9fa;
+}
+
+/* About Section */
+.about {
+    background-color: #152e46 ;
+    padding: 80px 0;
+}
+
+/* Portfolio Section */
+.portfolio {
+    padding: 80px 0;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+/* Contact Section */
+.contact {
+    padding: 80px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #152e46 ;
+    color: #fff;
+}
+
+.rounded-circle {
+    width: 150px; /* or any size you prefer */
+    height: 150px; /* ensure the height is the same as width */
+    object-fit: cover; /* this ensures the image covers the entire area */
+}
+
+.custom-navbar {
+    background-color:  #152e46; /* Cyan-Blue color */
+}
